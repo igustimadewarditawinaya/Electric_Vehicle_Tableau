@@ -223,10 +223,10 @@ Washington-EV-Dashboard/
 ├── Dashboard/
 │   ├── Washington_EV_Dashboard.png
 │
-├── dataset/
-│   ├── electric_vehicle_data.csv
+├── Dataset/
+│   ├── Electric_Vehicle_Population_Data.xlsx
 │
-├── tableau/
-│   ├── washington_ev_dashboard.twb
+├── Tableau/
+│   ├── Washington_Ev_Dashboard.twb
 │
 ├── README.md
