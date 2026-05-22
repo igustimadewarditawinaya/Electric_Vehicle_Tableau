@@ -40,7 +40,7 @@ Project ini bertujuan untuk membantu stakeholder memahami perkembangan adopsi ke
 - Mengidentifikasi manufacturer dan model EV yang paling dominan.
 - Memahami persebaran EV berdasarkan county dan city.
 - Menganalisis electric range kendaraan.
-- Mengevaluasi CAFV eligibility kendaraan listrik.
+- Mengevaluasi CAFV (Clean Alternative Fuel Vehicle) eligibility kendaraan listrik.
 - Menyediakan dashboard interaktif untuk eksplorasi data kendaraan listrik.
 
 ---
